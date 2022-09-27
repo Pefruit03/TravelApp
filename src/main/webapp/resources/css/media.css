@@ -1,0 +1,14 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 2, 2022, 11:17:23 PM
+    Author     : HP
+*/
+
+@media (min-width: 1025px) {
+    .h-custom {
+        height: 100vh !important;
+    }
+}

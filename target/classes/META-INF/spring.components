@@ -1,0 +1,7 @@
+com.nhkc.configs.HibernateConfig=org.springframework.stereotype.Component
+com.nhkc.configs.SpringSecurityConfig=org.springframework.stereotype.Component
+com.nhkc.configs.TilesConfig=org.springframework.stereotype.Component
+com.nhkc.configs.WebAppContextConfig=org.springframework.stereotype.Component
+com.nhkc.controllers.IndexController=org.springframework.stereotype.Component
+com.nhkc.handlers.LoginSuccess=org.springframework.stereotype.Component
+com.nhkc.pojo.Login=javax.persistence.Entity,javax.persistence.Table
